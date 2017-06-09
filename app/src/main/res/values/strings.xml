@@ -19,7 +19,10 @@
         <item>SEK</item>
         <item>USD</item>
         <item>ZAR</item>
+        <item>PKR</item>
     </string-array>
+
+    <string name="prompt">Select currency</string>
 
 
 </resources>
